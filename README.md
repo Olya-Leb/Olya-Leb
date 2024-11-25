@@ -3,4 +3,4 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=34&pause=1000&color=F76CDD&background=FFA2F46C&center=true&vCenter=true&width=930&lines=Student" alt="Typing SVG" /></a>
 
-<img src="https://github.com/Olya-Leb/Olya-Leb/blob/main/cat.gif" alt="The Unlimited" widht="700">
+<img src="https://github.com/Olya-Leb/Olya-Leb/blob/main/cat.gif" alt="The Unlimited" widht="900">
