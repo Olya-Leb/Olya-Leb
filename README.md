@@ -7,6 +7,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Olya-Leb&color=lightgrey&style=plastic" alt=""/>
 
-<div>
-  id="badges"
-</div>
+<div>id="badges"</div>
