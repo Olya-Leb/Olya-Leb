@@ -5,9 +5,8 @@
 
 <img src="https://github.com/Olya-Leb/Olya-Leb/blob/main/cat.gif" alt="The Unlimited" widht="1000">
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Olya-Leb&color=lightgrey&style=plastic" id="badges" alt=""/>
-</div>
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
